@@ -7,7 +7,7 @@ export const profile = {
   location: 'Tamil Nadu, India',
   email: 'gopinesh21@gmail.com',
   phone: '+91 93449 77110',
-  linkedin: 'https://linkedin.com/in/gopinesh-v',
+  linkedin: 'https://www.linkedin.com/in/gopinesh-v-375a31335/',
   github: 'https://github.com/Gopi-creater',
   resume: '/Gopinesh_V_Resume.pdf',
 }
