@@ -1,4 +1,4 @@
-// All portfolio content lives here — edit this file to update the site.
+﻿// All portfolio content lives here — edit this file to update the site.
 
 export const profile = {
   name: 'Gopinesh V',
@@ -90,7 +90,7 @@ export const project = {
 export const skills = [
   { group: 'Languages', items: ['JavaScript', 'TypeScript', 'C#', 'HTML5', 'CSS3'] },
   { group: 'Frontend', items: ['React.js', 'Redux', 'Redux Toolkit', 'Tailwind CSS', 'Vite'] },
-  { group: 'Backend', items: ['Node.js', 'Express.js', '.NET', 'ASP.NET Core Web API', 'RESTful APIs', 'Microservices', 'RBAC', 'Twilio'] },
+  { group: 'Backend', items: ['Node.js', 'Express.js', '.NET', 'ASP.NET Core Web API', 'RESTful APIs', 'JWT', 'Microservices', 'RBAC', 'Twilio'] },
   { group: 'Databases', items: ['MongoDB', 'Mongoose', 'MongoDB Atlas', 'Percona', 'PostgreSQL'] },
   { group: 'Cloud & DevOps', items: ['Docker', 'AWS EC2', 'AWS S3', 'GitHub Actions', 'CI/CD', 'Linux', 'Render', 'Vercel'] },
   { group: 'Tools & Practices', items: ['Git', 'GitHub', 'Jira', 'Agile / Scrum', 'SDLC', 'Automated Testing', 'Claude Code', 'ChatGPT', 'Prompt Engineering'] },

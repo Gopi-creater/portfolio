@@ -1,4 +1,4 @@
-// Logo and brand colour of each technology (logos: Devicon on jsDelivr).
+﻿// Logo and brand colour of each technology (logos: Devicon on jsDelivr).
 // `color` is tuned to stay readable on both themes.
 const DEV = 'https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons'
 const icon = (slug: string, file = `${slug}-original`) => `${DEV}/${slug}/${file}.svg`
@@ -26,6 +26,7 @@ const T: Record<string, Tech> = {
   '.NET': { color: '#8b5cf6', logo: icon('dot-net') },
   'ASP.NET Core Web API': { color: '#8b5cf6', logo: icon('dotnetcore') },
   'RESTful APIs': { color: '#14b8a6' },
+  JWT: { color: '#d63aff' },
   'REST APIs': { color: '#14b8a6' },
   Microservices: { color: '#f472b6' },
   RBAC: { color: '#f59e0b' },
